@@ -1,0 +1,10 @@
+{
+  "bot": {
+    "token": "bottoken"
+  },
+  "logs": -chatid,
+  "ownerId": ["@vashid", "@vashid"],
+  "user": "root",
+  "password": "pass",
+  "servers": "servers.txt"
+}
